@@ -1,0 +1,30 @@
+ModuleID,ParentID,Icon,Sign,Status,PageSrc,Level,OrderIndex
+1,0,icon-hdd,System manage,Open,<blank>,1,10
+2,1,<blank>,System module,Open,/system/module.php,2,1
+3,1,<blank>,System administrator,Open,/system/administrator.php,2,2
+4,0,icon-home,Home,Open,/index.php,1,1
+5,0,icon-lock,About us,Open,<blank>,1,5
+6,5,<blank>,Company profile,Open,/about/profile.php,2,1
+7,0,icon-map-marker,Contact us,Open,<blank>,1,6
+8,0,icon-tags,Products,Open,<blank>,1,2
+9,8,<blank>,Product category,Open,/product/series.php,2,1
+10,8,<blank>,Product list,Open,/product/product.php,2,2
+11,0,icon-signal,AD space,Open,<blank>,1,8
+12,11,<blank>,Home slide,Open,/ad/index_slide.php,2,1
+13,7,<blank>,Head office,Open,/contact/contact.php,2,1
+14,7,<blank>,Distributor,Open,/contact/distributor.php,2,2
+15,5,<blank>,News,Open,/about/news.php,2,2
+16,0,icon-user,Users,Open,/user/user.php,1,9
+17,0,icon-thumbs-up,Services,Open,<blank>,1,4
+18,17,<blank>,Cell line develepment,Open,/service/cell_line_develepment.php,2,1
+19,17,<blank>,Protein purification,Open,/service/protein_purification.php,2,2
+20,0,icon-tint,Cytokines,Open,<blank>,1,3
+21,20,<blank>,Cytokine category,Open,/cytokine/series.php,2,1
+22,20,<blank>,Cytokine list,Open,/cytokine/cytokine.php,2,2
+23,1,<blank>,System parameter,Open,/system/parameter.php,2,3
+24,0,icon-tags,Coupon,Open,/coupon/coupons.php,1,11
+25,0,Ion-figer,How to Order,Close,<blank>,1,7
+26,7,<blank>,How to Order,Open,/contact/howtoorder.php,2,3
+27,25,<blank>,HHH,Open,<blank>,2,1
+28,0,ali,ali,Close,/ali/ali.php,1,12
+

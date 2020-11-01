@@ -1,0 +1,90 @@
+ProductID,SeriesLevel1ID,SeriesLevel2ID,SDS,Sign,Number,Content,PostTime,DataSheet
+1,1,5,/upload_files/files/product-sds/1.pdf,Recombinant Human Activin A,HST-A,<p><strong>Product Specifications</strong><br />\r\n&bull; Expression of Human Proteins in Human Cells<br />\r\n• Extreme low Endotoxin<br />\r\n• High Purity,2016-06-12 23:56:58,/upload_files/files/product-data-sheet/1.pdf
+2,1,5,/upload_files/files/product-sds/2.pdf,Recombinant Human BMP-2,HST-B2,<p><strong>Product Specifications</strong><br />\r\n&bull; Expression of Human Proteins in Human Cells<br />\r\n• Extreme low Endotoxin<br />\r\n• Highly Puri,2016-04-17 00:08:55,/upload_files/files/product-data-sheet/2.pdf
+5,2,11,/upload_files/files/product-sds/5.pdf,Recombinant human IL-2,HCT-I2,<h3><strong>Product Specifications</strong></h3>\r\n\r\n<ul>\r\n\t<li>Expression of Human Proteins in Human Cells</li>\r\n\t<li>Extreme low Endotoxin</li>\r\n\t<li>Highly Purity</li>\r\n\t<li>Animal Free and Xeno Free</li>\r\n\t<li>Tag Free</li>\r\n</ul>\r\n\r\n<p><strong>Source: </strong>Human cells derived<br />\r\n<strong>Structure: </strong>Glycosylated monomer<br />\r\n<strong>Purity: </strong>>9,2016-04-27 01:48:30,/upload_files/files/product-data-sheet/5.pdf
+8,2,8,/upload_files/files/product-sds/8.pdf,Recombinant human IL-2,HCT-I2,<h3><strong>Product Specifications</strong></h3>\r\n\r\n<ul>\r\n\t<li>Expression of Human Proteins in Human Cells</li>\r\n\t<li>Extreme low Endotoxin</li>\r\n\t<li>High Purity</li>\r\n\t<li>Animal Free and Xeno Free</li>\r\n\t<li>Tag Free</li>\r\n</ul>\r\n\r\n<p><strong>Source: </strong>Human cells derived<br />\r\n<strong>Structure: </strong>Glycosylated monomer<br />\r\n<strong>Purity: </strong>>95%,2016-05-03 15:52:38,/upload_files/files/product-data-sheet/8.pdf
+9,1,5,/upload_files/files/product-sds/9.pdf,Recombinant Human BMP-4,HST-B4,"<h3 style=""margin-left:0in; margin-right:134.85pt;",2016-06-12 16:09:38,/upload_files/files/product-data-sheet/9.pdf
+10,1,5,/upload_files/files/product-sds/10.pdf,Recombinant Human BMP-7,HST-B7,"<h3><strong><span style=""color:rgb(35, 31, 32)&#34",2016-06-12 16:32:42,/upload_files/files/product-data-sheet/10.pdf
+11,2,11,/upload_files/files/product-sds/11.pdf,Recombinant Human DC cocktail,HCT-G4,"<h3><strong><span style=""color:rgb(35, 31, 32)&#34",2016-06-12 19:04:14,/upload_files/files/product-data-sheet/11.pdf
+12,1,5,/upload_files/files/product-sds/12.pdf,Recombinant Human TGF-β1,HST-TB1,"<h3><strong><span style=""color:rgb(35, 31, 32)&#34",2016-06-13 00:49:28,/upload_files/files/product-data-sheet/12.pdf
+13,2,9,/upload_files/files/product-sds/13.pdf,Recombinant Human IL-7,HCT-I7,"<h3><strong>Product Specifications</strong></h3>\r\n\r\n<div><span style=""color:rgb(35, 31, 32)"">•&",2016-06-13 01:27:44,/upload_files/files/product-data-sheet/13.pdf
+14,2,11,/upload_files/files/product-sds/14.pdf,Recombinant Human TNFα,HIM-TNa,"<h3 style=""margin-right:134.85pt; text-align:justi",2016-06-14 17:13:57,/upload_files/files/product-data-sheet/14.pdf
+15,1,5,/upload_files/files/product-sds/15.pdf,Recombinant Human Noggin,HST-NG,<h3><strong>Product Specifications</strong></h3>\r\n\r\n<div>•\xa0\xa0\xa0\xa0\xa0 Expression of ,2016-06-14 17:18:46,/upload_files/files/product-data-sheet/15.pdf
+16,2,9,/upload_files/files/product-sds/16.pdf,Recombinant Human IL-15,HCT-I15,<h3><strong>Product Specifications</strong></h3>\r\n\r\n<ul>\r\n\t<li>Expression of Human Proteins in Human Cells</li>\r\n\t<li>Extreme low Endotoxin</li>\r\n\t<li>High Purity</li>\r\n\t<li>Animal Free and Xeno Free</li>\r\n\t<li>Tag Free</li>\r\n</ul>\r\n\r\n<p><strong>Source: </strong>Human cells derived<br />\r\n<strong>Structure:</strong> Glycosylated monomer<br />\r\n<strong>Purity:</strong> >95%,2016-06-14 17:53:58,/upload_files/files/product-data-sheet/16.pdf
+17,2,11,/upload_files/files/product-sds/17.pdf,Recombinant Human IFN-γ,HST-IFg,<h3><strong>Product Specifications</strong></h3>\r\n\r\n<ul>\r\n\t<li>Expression of Human Proteins in Human Cells</li>\r\n\t<li>Extreme low Endotoxin</li>\r\n\t<li>High Purity</li>\r\n\t<li>Animal Free and Xeno Free</li>\r\n\t<li>Tag Free</li>\r\n</ul>\r\n\r\n<p><strong>Source: </strong>Human cells derived<br />\r\n<strong>Structure:</strong> Glycosylated dimer<br />\r\n<strong>Purity: </strong>>95% b,2016-06-14 18:42:24,/upload_files/files/product-data-sheet/17.pdf
+18,2,10,/upload_files/files/product-sds/18.pdf,Recombinant Human IL-12,HCT-I12,"<h3 style=""margin-right:134.85pt; text-align:justi",2016-06-14 18:50:06,/upload_files/files/product-data-sheet/18.pdf
+19,2,11,/upload_files/files/product-sds/19.pdf,Recombinant Human IL-4,HCT-I4,"<h3 style=""margin-right:134.85pt; text-align:justi",2016-06-13 18:58:50,/upload_files/files/product-data-sheet/19.pdf
+20,2,11,/upload_files/files/product-sds/20.pdf,Recombinant Human GM-CSF,HHM-GM,"<h3 style=""margin-right:134.85pt; text-align:justi",2016-06-13 19:01:18,/upload_files/files/product-data-sheet/20.pdf
+21,2,8,<blank>,Anti-CD3 & CD28 antibobdy nanoparticles,HCT-Sbe,<h3><strong>Product Description</strong></h3>\r\n\r\n<p>Anti-CD3 & CD28 antibobdy nanoparticles are ideal to,2016-06-14 20:28:13,<blank>
+22,2,11,/upload_files/files/product-sds/22.pdf,Recombinant Human Anti-CD3 Ab,HCT-AbD3,<h3><strong>Product Specifications</strong></h3>\r\n\r\n<ul>\r\n\t<li>Expression of Human protein in Human Cells</li>\r\n\t<li>Extreme low Endotoxin</li>\r\n\t<li>High Purity</li>\r\n\t<li>Animal Free and Xeno Free</li>\r\n\t<li>Tag Free</li>\r\n</ul>\r\n\r\n<p><strong>Source: </strong>Human cells derived<br />\r\n<strong>Structure: </strong>N/O<br />\r\n<strong>Purity: </strong>>95% by SDS-PAGE<br />,2016-06-14 21:50:10,/upload_files/files/product-data-sheet/22.pdf
+23,1,5,/upload_files/files/product-sds/23.pdf,Recombinant Human IL-3,HCT-I3,<h3><strong>Product Specifications</strong></h3>\r\n\r\n<div>•\xa0\xa0\xa0\xa0\xa0 Expression of ,2016-06-21 22:24:18,/upload_files/files/product-data-sheet/23.pdf
+24,4,0,/upload_files/files/product-sds/24.pdf,Recombinant Human IGF-1,EME-IF1,"<p><strong>Source: </strong>E. coli derived</p>\r\n\r\n<p><strong>Structure: </strong>Monomer, with an additional 13 amino acid residues at N terminal.</p>\r\n\r\n<p><strong>Purity: </strong>>95% by SDS-PAGE</p>\r\n\r\n<p><st",2016-07-08 03:54:30,/upload_files/files/product-data-sheet/24.pdf
+25,4,0,/upload_files/files/product-sds/25.pdf,Recombinant Human EGF,EME-EF,<p><strong>Source:</strong> E. coli derived<br />\r\n<strong>Structure:</strong> Monomer<br />\r\n<strong>Purity: </strong>>95% by SDS-PAGE<br />\r\n<strong>Endotoxi,2016-07-07 04:14:08,/upload_files/files/product-data-sheet/25.pdf
+26,4,16,/upload_files/files/product-sds/26.pdf,Recombinant TEV Protease,EPE-T,<p><strong>Source: </strong>E. coli derived<br />\r\n<strong>Purity: </strong>>90% by SDS-PAGE<br />\r\n<stro,2016-08-26 03:58:22,/upload_files/files/product-data-sheet/26.pdf
+27,4,16,/upload_files/files/product-sds/27.pdf,Recombinant SUMO Protease,EPE-S,<p><strong>Source: </strong>E. coli derived<br />\r\n<strong>Purity: </strong>>90% by SDS-PAGE<br />\r\n<stro,2016-08-27 10:55:16,/upload_files/files/product-data-sheet/27.pdf
+28,4,16,/upload_files/files/product-sds/28.pdf,Recombinant PreScission Protease (HRV 3C),EPE-P,<p><strong>Source: </strong>E. coli derived<br />\r\n<strong>Purity: </strong>>90% by SDS-PAGE<br />\r\n<stro,2016-08-27 11:02:41,/upload_files/files/product-data-sheet/28.pdf
+29,1,7,/upload_files/files/product-sds/29.pdf,Recombinant Human DC cocktail,HCT-G4,"<h3><strong><span style=""color:rgb(35, 31, 32)&#34",2016-09-22 16:43:23,/upload_files/files/product-data-sheet/29.pdf
+31,1,15,/upload_files/files/product-sds/31.pdf,Recombinant Human SCF,HHM-SF,"<h3><strong><span style=""color:rgb(35, 31, 32)&#34",2016-09-22 17:00:39,/upload_files/files/product-data-sheet/31.pdf
+32,1,15,/upload_files/files/product-sds/32.pdf,Recombinant Human TPO,HHM-TP,"<h3><strong><span style=""color:rgb(35, 31, 32)&#34",2016-09-22 17:01:29,/upload_files/files/product-data-sheet/32.pdf
+33,1,15,/upload_files/files/product-sds/33.pdf,Recombinant Human FLT3 Ligand,HHM-FT,"<h3 style=""margin-right:134.85pt; text-align:justi",2016-09-22 17:02:28,/upload_files/files/product-data-sheet/33.pdf
+34,1,15,/upload_files/files/product-sds/34.pdf,Recombinant Human EPO,HHM-EP,"<h3 style=""margin-right:134.85pt; text-align:justi",2016-09-22 17:03:27,/upload_files/files/product-data-sheet/34.pdf
+35,1,15,/upload_files/files/product-sds/35.pdf,Recombinant Human G-CSF,HHM-GC,"<h3 style=""margin-right:134.85pt; text-align:justi",2016-09-22 17:04:25,/upload_files/files/product-data-sheet/35.pdf
+36,1,15,/upload_files/files/product-sds/36.pdf,Recombinant Human GM-CSF,HHM-GM,"<h3 style=""margin-right:134.85pt; text-align:justi",2016-09-22 17:05:37,/upload_files/files/product-data-sheet/36.pdf
+37,1,15,/upload_files/files/product-sds/37.pdf,Recombinant Human IL-6,HIM-I6,"<h3><strong><span style=""color:rgb(35, 31, 32)&#34",2016-09-22 17:06:42,/upload_files/files/product-data-sheet/37.pdf
+38,4,16,<blank>,EZPure Magnetic PCR Purification (PCR product purification DNA size selection),IM1601,"<p><span style=""font-size:26px""><span style=&#",2016-12-17 17:31:01,<blank>
+39,17,0,/upload_files/files/product-sds/39.pdf,Recombinant Human Anti-CD3 Ab,HCT-AbD3,<h3><strong>Product Specifications</strong></h3>\r\n\r\n<ul>\r\n\t<li>Expression of Human Proteins in CHO Cells</li>\r\n\t<li>Extreme low Endotoxin</li>\r\n\t<li>High Purity</li>\r\n\t<li>Tag Free</li>\r\n</ul>\r\n\r\n<p><strong>Source:</strong> CHO cells derived<br />\r\n<strong>Structure:</strong> N/O<br />\r\n<strong>Purity:</strong> >95% by ,2017-02-03 18:16:19,/upload_files/files/product-data-sheet/39.pdf
+40,4,18,<blank>,CellSup® hMSC Medium,HCM-MS1,"<h3><strong>PRODUCT DESCRIPTION</strong></h3>\r\n\r\n<p style=""margin-left:240px""><img alt="""" sr",2017-02-27 21:01:55,/upload_files/files/product-data-sheet/40.pdf
+41,20,0,<blank>,HUMAN BONE MARROW CD34+ STEM CELLS,HBM-CD34,"<h2>\xa0</h2>\r\n\r\n<p><span style=""font-size:18px&",2017-06-25 01:24:53,<blank>
+42,20,0,<blank>,HUMAN BONE MARROW MONONUCLEAR CELLS,HBM-MC,"<p style=""margin-left:0cm; margin-right:0cm""><",2017-06-25 02:04:20,<blank>
+43,20,0,<blank>,HUMAN CORD BLOOD CD14+ MONOCYTES,HCB-CD14,"<p style=""margin-left:0cm; margin-right:0cm""><",2017-06-25 02:11:38,<blank>
+44,20,0,<blank>,HUMAN CORD BLOOD CD19+ B CELLS,HCB-CD19,"<p style=""margin-left:0cm; margin-right:0cm""><",2017-06-25 02:14:34,<blank>
+45,20,0,<blank>,HUMAN CORD BLOOD CD34+ STEM CELLS(Single) (BMMCs),HCB-CD34,"<p style=""margin-left:0cm; margin-right:0cm""><",2017-06-25 02:18:36,<blank>
+46,20,0,<blank>,HUMAN CORD BLOOD CD34+ STEM CELLS(Mixed),HCB-CD34,"<p style=""margin-left:0cm; margin-right:0cm""><",2017-06-25 02:23:14,<blank>
+47,20,0,<blank>,HUMAN CORD BLOOD CD4+ T HELPER CELLS,HCB-CD4,"<p style=""margin-left:0cm; margin-right:0cm""><",2017-06-25 02:30:25,<blank>
+48,20,0,<blank>,HUMAN CORD BLOOD CD4+/ CD45RA+ NAïVE T CELLS,HCB-CD45,"<p style=""margin-left:0cm; margin-right:0cm""><",2017-06-25 02:33:30,<blank>
+49,20,0,<blank>,HUMAN CORD BLOOD CD56+ NK CELLS,HCB-CD56,"<p style=""margin-left:0cm; margin-right:0cm""><",2017-06-25 02:37:04,<blank>
+50,20,21,<blank>,HUMAN CORD BLOOD CD8+ CYTOTOXIC T CELLS,HCB-CD8,"<p style=""margin-left:0cm; margin-right:0cm""><",2017-06-25 02:39:17,<blank>
+51,20,21,<blank>,HUMAN CORD BLOOD MONONUCLEAR CELLS,HCB-MC,"<p style=""margin-left:0cm; margin-right:0cm""><",2017-09-20 03:06:02,<blank>
+52,20,21,<blank>,HUMAN CORD BLOOD PAN T CELLS,HCB-PT,"<p style=""margin-left:0cm; margin-right:0cm""><",2017-06-25 03:09:25,<blank>
+53,20,22,<blank>,HUMAN MOBILIZED PERIPHERAL BLOOD CD34+ STEM CELLS,MPB-CD34,"<p style=""margin-left:0cm; margin-right:0cm""><",2017-06-25 03:13:08,<blank>
+54,20,22,<blank>,HUMAN (Untouched) NORMAL PB CD14+ MONOCYTES,NPB-CD14,"<p style=""margin-left:0cm; margin-right:0cm""><",2017-06-25 03:19:47,<blank>
+55,20,22,<blank>,HUMAN (Positively Selected  )NORMAL PB CD14+ MONOCYTES,NPB-CD14,"<p style=""margin-left:0cm; margin-right:0cm""><",2017-06-25 03:22:21,<blank>
+56,20,22,<blank>,HUMAN (Untouched) NORMAL PB CD19+ B CELLS,NPB-CD19,"<p style=""margin-left:0cm; margin-right:0cm""><",2017-06-25 03:29:06,<blank>
+57,20,22,<blank>,HUMAN NORMAL PB CD3+ PAN T CELLS,NPB-CD3T,"<p style=""margin-left:0cm; margin-right:0cm""><",2017-06-25 03:31:19,<blank>
+58,20,22,<blank>,HUMAN NORMAL PB CD4+ T HELPER CELLS,NPB-CD4T,"<p style=""margin-left:0cm; margin-right:0cm""><",2017-06-25 03:35:20,<blank>
+59,20,22,<blank>,HUMAN NORMAL PB CD4+/CD25+ REGULATORY T CELLS,NPB-RT,"<p style=""margin-left:0cm; margin-right:0cm""><",2017-06-25 03:37:43,<blank>
+60,20,22,<blank>,HUMAN NORMAL PB CD4+/CD45RA+/CD25- NAïVE T CELLS,NPB-NT,"<p style=""margin-left:0cm; margin-right:0cm""><",2017-06-25 03:39:41,<blank>
+61,20,22,<blank>,HUMAN NORMAL PB CD4+/CD45RO+ MEMORY T CELLS,NPB-MT,"<p style=""margin-left:0cm; margin-right:0cm""><",2017-06-25 03:41:24,<blank>
+62,20,0,<blank>,HUMAN (Untouched) NORMAL PB CD56+ NK CELLS,NPB-CD56,"<p style=""margin-left:0cm; margin-right:0cm""><",2017-06-25 03:43:33,<blank>
+63,20,22,<blank>,HUMAN (Positively Selected ) NORMAL PB CD56+ NK CELLS,PPB-CD56,"<p style=""margin-left:0cm; margin-right:0cm""><",2017-06-25 03:45:39,<blank>
+64,20,22,<blank>,HUMAN NORMAL PB CD8+ CYTOTOXIC T CELLS,NPB-CD8,"<p style=""margin-left:0cm; margin-right:0cm""><",2017-06-25 03:47:42,<blank>
+65,20,0,<blank>,HUMAN NORMAL PB CD8+/CD45RA+ NAïVE CYTOTOXIC T CELLS,NPB-NCT,"<p style=""margin-left:0cm; margin-right:0cm""><",2017-06-25 03:49:17,<blank>
+66,20,22,<blank>,HUMAN NORMAL PB UNTOUCHED CD19+/IGD+ NAïVE B CELLS,NPB-NB,"<p style=""margin-left:0cm; margin-right:0cm""><",2017-06-25 03:51:03,<blank>
+67,20,22,<blank>,HUMAN NORMAL PBMC,NPB-MNC,"<p style=""margin-left:0cm; margin-right:0cm""><",2017-09-20 03:52:58,<blank>
+68,20,22,<blank>,MOBILIZED PB MONONUCLEAR CELLS,MPB-MNC,"<p style=""margin-left:0cm; margin-right:0cm""><",2017-09-19 03:56:21,<blank>
+69,20,0,<blank>,POSITIVELY SELECTED NORMAL PB CD19+ B CELLS,PPB-CD19,"<p style=""margin-left:0cm; margin-right:0cm""><",2017-06-25 03:58:23,<blank>
+70,20,0,<blank>,NAïVE NON-HUMAN PRIMATE-CYNOMOLOGUS CD3+ PAN T CELLS,HNC-CD3,"<p style=""margin-left:0cm; margin-right:0cm""><",2017-06-25 04:00:13,<blank>
+71,20,0,<blank>,NAïVE RHESUS PERIPHERAL BLOOD MNC,RPB-MNC,"<p style=""margin-left:0cm; margin-right:0cm""><",2017-06-25 04:02:14,<blank>
+72,20,0,<blank>,AML PB PLASMA (NEWLY DIAGNOSED / UNTREATED),AML-PBP,"<p style=""margin-left:0cm; margin-right:0cm""><",2017-06-25 04:04:39,<blank>
+73,20,0,<blank>,CML PB PLASMA (CHRONIC PHASE),CML-PBP,"<p style=""margin-left:0cm; margin-right:0cm""><",2017-06-25 04:06:36,<blank>
+74,20,0,<blank>,GRAVES THYROID DISEASE PLASMA,HGT-DP,"<p style=""margin-left:0cm; margin-right:0cm""><",2017-06-25 04:08:31,<blank>
+75,20,0,<blank>,CROHN'S DISEASE PLASMA,HCH-DP,"<p style=""margin-left:0cm; margin-right:0cm""><",2017-06-25 04:10:07,<blank>
+76,20,0,<blank>,HEPATITIS B PLASMA,HBV-BP,"<p style=""margin-left:0cm; margin-right:0cm""><",2017-06-25 04:11:36,<blank>
+77,20,0,<blank>,HEPATITIS C PLASMA,HCV-CP,"<p style=""margin-left:0cm; margin-right:0cm""><",2017-06-25 04:13:16,<blank>
+78,20,0,<blank>,HIV-1 PLASMA,HIV-1P,"<p style=""margin-left:0cm; margin-right:0cm""><",2017-06-25 04:15:38,<blank>
+79,20,0,<blank>,HIV-2 PLASMA,HIV-2P,"<p style=""margin-left:0cm; margin-right:0cm""><",2017-06-25 04:17:07,<blank>
+80,20,0,<blank>,MM PB PLASMA (NEWLY DIAGNOSED / UNTREATED),MMP-PB,"<p style=""margin-left:0cm; margin-right:0cm""><",2017-06-25 04:18:40,<blank>
+81,20,0,<blank>,MULTIPLE SCLEROSIS PLASMA,HMS-PM,"<p><span style=""font-size:18px""><span style=&#",2017-06-25 04:20:40,<blank>
+82,20,0,<blank>,OSTEOARTHRITIS PLASMA,OAS-PM,"<p style=""margin-left:0cm; margin-right:0cm""><",2017-06-25 04:23:10,<blank>
+83,20,0,<blank>,PSORIASIS PLASMA,PSA-PM,"<p><span style=""font-size:18px""><span style=&#",2017-06-25 04:25:06,<blank>
+84,20,0,<blank>,RHEUMATOID ARTHRITIS PLASMA,RMA-PM,"<p style=""margin-left:0cm; margin-right:0cm""><",2017-06-25 04:26:53,<blank>
+85,20,0,<blank>,SYSTEMIC LUPUS ERYTHEMATOSUS PLASMA,SLE-PM,"<p style=""margin-left:0cm; margin-right:0cm""><",2017-06-25 04:28:40,<blank>
+86,20,0,<blank>,TYPE 1 DIABETES PLASMA,IDD-T1P,"<p style=""margin-left:0cm; margin-right:0cm""><",2017-06-25 04:30:29,<blank>
+87,20,0,<blank>,TYPE 2 DIABETES PLASMA,IDD-T2P,"<p style=""margin-left:0cm; margin-right:0cm""><",2017-06-25 04:31:29,<blank>
+88,20,0,<blank>,ULCERATIVE COLITIS,HUC-PM,"<p style=""margin-left:0cm; margin-right:0cm""><",2017-06-25 04:34:25,<blank>
+89,1,5,/upload_files/files/product-sds/89.pdf,Recombinant Human TGF-β3,HST-TB3,"<h3><strong><span style=""color:rgb(35, 31, 32)&#34",2017-09-27 21:24:35,/upload_files/files/product-data-sheet/89.pdf
+90,2,10,/upload_files/files/product-sds/90.pdf,Recombinant Human IL-21,HCT-I21,<h3><strong>Product Specifications</strong></h3>\r\n\r\n<ul>\r\n\t<li>Expression of Human Proteins in Human Cells</li>\r\n\t<li>Extreme low Endotoxin</li>\r\n\t<li>High Purity</li>\r\n\t<li>Animal Free and Xeno Free</li>\r\n\t<li>Tag Free</li>\r\n</ul>\r\n\r\n<p><strong>Source:</strong> Human cells derived<br />\r\n<strong>Structure:</strong> Glycosylated monomer<br />\r\n<strong>Purity:</strong> >95%,2017-07-17 19:28:52,/upload_files/files/product-data-sheet/90.pdf
+91,4,18,<blank>,CellSup® T Cell Medium,Cat# HCM-T1-0500,<h3><strong>PRODUCT DESCRIPTION</strong></h3>\r\n\r\n<div>CellSup\xae T Cell Medium is a chemical defined mediu,2017-11-21 14:38:18,/upload_files/files/product-data-sheet/91.pdf
+92,4,18,/upload_files/files/293CDMSDS.pdf,CellSup® CD293 Medium,HCM-CD1-1000,"<h3><strong>PRODUCT DESCRIPTION</strong></h3>\r\n\r\n<p style=""margin-left:240px"">\xa0</p>\r\n\r\n<p>CellS",2018-05-04 17:51:44,/upload_files/files/CD293DS.pdf
+93,4,16,<blank>,CellTran® PEI,CTR-PEI,"<h4><strong>PRODUCT DESCRIPTION</strong></h4>\r\n\r\n<div>CellTran\xaePEI (PEI MAX 40K, also known as PEI 22K i",2018-06-22 15:36:04,/upload_files/files/product-data-sheet/93.pdf
+

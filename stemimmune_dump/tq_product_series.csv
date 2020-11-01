@@ -1,0 +1,24 @@
+ParentID,SeriesID,Sign,Status,Content,Level,Thumbnail,OrderIndex
+0,2,Immunotherapy,Open,"Stem Cells include ESc, IPSc and other tissue stem cells, such as hematopoietic stem cells. StemImmune provides stem cell growth factors and media that are animal free, Xeno Free and Endotoxin free.",1,/upload_files/images/product-series/2.jpg,1
+0,3,Cell Culture Kits,Open,<p>Immunotherapy is a broad category of anti-cancer therapies that use the body’s immune system to fig,1,/upload_files/images/product-series/3.jpg,3
+0,4,Media/Reagents,Open,"<p>Stem Cell Culture Kits, including Mediums and supplements are avalible at at StemImmune LLC.</p>",1,/upload_files/images/product-series/4.jpg,4
+0,4,Media/Reagents,Open,<blank>,1,/upload_files/images/product-series/4.jpg,4
+0,12,STEM CELL REAGENTS,Close,SMALL MOLECULES IN DIFFERENT PATHWAY,1,/upload_files/images/product-series/12.jpg,6
+0,13,Human Cytokines,Close,"<h2><strong><a href=""http://stem-immune.com/cytoki",1,<blank>,7
+0,12,STEM CELL REAGENTS,Close,Protein from non-human cells,1,/upload_files/images/product-series/12.jpg,6
+0,13,Human Cytokines,Close,<p>Antibodies for stem cell and cell therapy study use.</p>,1,<blank>,7
+0,14,Non-HuCytokines,Close,<blank>,1,<blank>,8
+0,17,Antibodies,Open,"<div class=""wpb_text_column wpb_content_element &#",1,/upload_files/images/product-series/17.jpeg,5
+1,15,Hematopoietic SCs,Open,<blank>,2,<blank>,2
+1,7,Differentiatation Kits,Open,<blank>,2,/upload_files/images/product-series/7.jpg,4
+1,6,Serum Free Media,Open,"<h2>\xa0</h2>\r\n\r\n<h2 style=""text-align:center&#3",2,/upload_files/images/product-series/6.jpg,3
+1,5,Growth Factors,Open,"<table border=""0"" cellpadding=""1"" cell",2,/upload_files/images/product-series/5.jpg,1
+2,8,Car-T Cells,Open,"<p>Car-T (Chimeric Antigen Receptor T-Cell) therapy is an immunotherapy that allows the T cells to recognize an antigen on targeted cancer cells, such as CD19 positive leukemia. In vitro, The activation and expansion of the Car-T cells need cytokines and\xa0 beads. Yo",2,/upload_files/images/product-series/8.jpg,1
+2,11,DC-CIK Cells,Open,"<p>T cells play a key role in cell-mediated immunity. CD4+ and CD8+ T-cell cells derive from naive T cells. The cytokines play a role in T-cells development. IL2, IL7, IL15 and IL21 are key in NKT cells development.</p>",2,/upload_files/images/product-series/11.jpg,4
+2,10,NK-Cells,Open,"<p>Dr. Ronald Herberman discovered a new class of lymphocytes that he called natural killer (NK) cells in the early 1970s. NK cells are activated by IL-2, IL-12 and IL-15 and release potent cytokines, such as interferon gamma (IFN-γ), that lyse susceptible targets",2,/upload_files/images/product-series/10.jpg,3
+2,9,T-Cells,Open,"<p>Dendritic cells (DCs) and CIK (cytokine induced killer) cells are major players for immuno cell therapy applied to many varieties cancers. Isolated nuclear cells from blood are stimulated by specific cytokines,such as IL-4, GM-CSF, IFN-gama and IL-2 and can be developed into DC cell and CIK cells.</p>",2,/upload_files/images/product-series/9.jpg,2
+4,16,Reagents,Open,<blank>,2,<blank>,1
+4,18,Serum Free Media,Open,"<p>CellSup\xaeMedium are incluing MSC, NeroCell, and ",2,/upload_files/images/product-series/18.jpg,2
+20,21,Human Cord Blood Cells,Open,<h2>Primery Cells From Cord Blood<br />\r\n\xa0</h2>,2,/upload_files/images/product-series/21.jpg,2
+20,22,Human Peripheral Blood,Open,<p>Human Cells From Periferal Blood</p>,2,/upload_files/images/product-series/22.jpg,1
+

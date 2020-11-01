@@ -1,0 +1,4 @@
+IDNumber,AdministratorID,Email,Gender,Mobile,Status,Birthday,Password,TrueName,UserName,CreateTime,LastLoginTime
+<blank>,1,alec20@163.com,Male,<blank>,Open,<blank>,57b845911255c734fa64c674e6225b35,Alec,admin,2016-04-06 04:42:07,2020-10-28 21:59:48
+<blank>,2,zxia@stem-immune.com,Male,<blank>,Open,<blank>,671c1c14af3c3bfad961d5826f8861d9,Tim Xia,xia,2016-06-14 14:26:10,<blank>
+
